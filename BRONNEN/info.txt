@@ -1,0 +1,3 @@
+unpack chirp-master and then overwrite it by chirp.rezonder.net
+
+https://github.com/rezoner/chirp
