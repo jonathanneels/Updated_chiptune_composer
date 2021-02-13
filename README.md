@@ -1,3 +1,8 @@
+This is an updated version of the project https://github.com/rezoner/chirp
+
+It is made for modern browsers (https support), but adds no other additions.
+To start: node index.js (after launch go to https://192.168.1.40:8009/ in your browser).
+
 Chirp
 =====
 
