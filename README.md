@@ -1,6 +1,6 @@
 This is an updated version of the project https://github.com/rezoner/chirp
 
-It is made for modern browsers (https support) and restored save functionality.
+It is made for modern browsers (https support) and has a restored save functionality.
 
 To start typ in command prompt (Windows); node index.js (after execution go to https://192.168.1.40:8009/ in your browser).
 
